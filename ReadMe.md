@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @silvicodes<br>👀 In this new GitHub account, I will upload content which I have made before (2018, 2019, 2020 & 2021) and also new projects that I am working on every day.<br>🌱 I’m currently working as a FrontEnd Developer.<br>🗣️ I speak Spanish, English, French and Arabic<br>📫 How to reach me dev.silvicodes@gmail.com
+👋 Hi, I’m Silvia - @silvicodes<br>👀 In this new GitHub account, I will upload content which I have made before (2018, 2019, 2020 & 2021) and also new projects that I am working on every day.<br>🌱 I’m currently working as a FrontEnd Developer.<br>🗣️ I speak Spanish, English, French and Arabic<br>📫
 
 
 ## 🌐 Socials:
